@@ -10,3 +10,7 @@ int sayi2 = int(input("ikinci sayıyı yaz"))
 
 
 
+
+
+
+//yanlış bilgi hahahahahahah
