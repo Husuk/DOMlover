@@ -3,6 +3,10 @@
 
 
 
-int Sayi1 = int(input("birinci sayıyı yaz"))
-int Sayi2 = int(input("ikinci sayıyı yaz"))
+int sayi1 = int(input("birinci sayıyı yaz"))
+int sayi2 = int(input("ikinci sayıyı yaz"))
+
+
+
+
 
