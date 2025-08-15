@@ -1,0 +1,8 @@
+
+//ebob ekok bulma
+
+
+
+int Sayi1 = int(input("birinci sayıyı yaz"))
+int Sayi2 = int(input("ikinci sayıyı yaz"))
+
