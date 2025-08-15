@@ -7,17 +7,31 @@ int sayi1 = int(input("birinci sayıyı yaz"))
 int sayi2 = int(input("ikinci sayıyı yaz"))
 
 
+int buyukSayi = 0
+int kucukSayi = 0
+
+
+
+int ebob = 0
+int ekok = 0
+if sayi1 < sayi2:
+	buyukSayi = sayi2
+	kucukSayi = sayi1
+elif sayi1 == sayi2:
+	print("sayilar eşit")
+else:
+	buyukSayi = sayi1
+	kucukSayi = sayi2
+
+for i in range(0,kucukSayi):
+	
+	
+	
 
 
 
 <<<<<<< HEAD
 
-<<<<<<< HEAD
 yanlış bilgi hahahahahahah
 =======
 >>>>>>> parent of 2e0347b (yanlış yaptım)
-=======
-
-
-//yanlış bilgi hahahahahahah
->>>>>>> parent of ecc9c93 (i dominated)
